@@ -1,0 +1,2 @@
+This system uses both the user based and rating based methods to make recommendations of books. The Recommender.ipynb contains the code for the recommender system
+and the book_recommend file contains the data used.

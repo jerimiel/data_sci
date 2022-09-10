@@ -1,0 +1,1 @@
+Q learning of a Rock Papers Scissors game from scratch to train computer to not loose
