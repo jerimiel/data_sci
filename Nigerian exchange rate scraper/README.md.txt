@@ -1,0 +1,1 @@
+> This is a script which scrapes out the latest exchange rate on the CBN website
